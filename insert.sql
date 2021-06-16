@@ -4,7 +4,7 @@ INSERT INTO subjects(name) VALUES('C'),('UNIX'),('TECHNOLOGY'),('Go'),('Science 
 
 INSERT INTO books(title, publisher) VALUES('The C Programming Language', 1);
 INSERT INTO books(title, publisher) VALUES('The Go Programming Language', 1);
-INSERT INTO books(title, publisher) VALUES('The UNIX Programming Language', 1);
+INSERT INTO books(title, publisher) VALUES('The UNIX Programming Environment', 1);
 INSERT INTO books(title, publisher) VALUES('Cryptonomicon', 2);
 INSERT INTO books(title, publisher) VALUES('Deep Work', 3);
 INSERT INTO books(title, publisher) VALUES('Atomic Habits', 4);
