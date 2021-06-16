@@ -1,6 +1,6 @@
 INSERT INTO publisher(name, country) VALUES('PHI', 'India'),('Harper', 'USA'),('GCP', 'USA'),('Avery', 'USA'),('Del Rey', 'UK'),('Vintage', 'UK');
 
-INSERT INTO subjects(name) VALUES('C'),('UNIX'),('TECHNOLOGY'),('Go'),('Science Fiction'),('Productivity'),('Psychology'),('Politics'),('History');
+INSERT INTO subjects(name) VALUES('C'),('UNIX'),('Technology'),('Go'),('Science Fiction'),('Productivity'),('Psychology'),('Politics'),('History');
 
 INSERT INTO books(title, publisher) VALUES('The C Programming Language', 1);
 INSERT INTO books(title, publisher) VALUES('The Go Programming Language', 1);
